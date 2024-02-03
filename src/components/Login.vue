@@ -24,7 +24,7 @@
                 type="email"
                 name="email"
                 id="email"
-                class="bg-white border h-14 border-av-secondary text-gray-900 sm:text-sm rounded-md focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                class="bg-white border h-14 border-av-secondary text-av-secondary sm:text-sm rounded-md focus:outline-none focus:ring-av-primary focus:border-av-primary block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                 required
               />
             </div>
@@ -38,7 +38,7 @@
                 type="password"
                 name="password"
                 id="password"
-                class="bg-white border h-14 border-av-secondary text-av-secondary sm:text-sm rounded-md focus:ring-gray-400 focus:border-gray-400block w-full p-2.5 dark:bg-av-primary dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                class="bg-white border h-14 border-av-secondary text-av-secondary sm:text-sm rounded-md focus:outline-none focus:ring-av-primary focus:border-av-primary block w-full p-2.5 dark:bg-av-primary dark:border-av-primary dark:placeholder-av-primary dark:text-white dark:focus:ring-av-primary dark:focus:border-av-primary"
                 required
               />
             </div>
